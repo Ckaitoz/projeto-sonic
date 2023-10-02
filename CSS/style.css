@@ -29,6 +29,12 @@
     position: absolute;
     bottom: 0;
 }
+.spin{
+    width: 150px;
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
 .jump{
     animation: jump 500ms ease-in-out;
 }
